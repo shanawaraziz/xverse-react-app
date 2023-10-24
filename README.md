@@ -1,4 +1,4 @@
-# Orinal Insrptions Lookup - React App
+# Ordinal Insrptions Lookup - React App
 
 To Start:
 
